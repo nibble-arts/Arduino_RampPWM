@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For PWM_RAMP
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin   KEYWORD2
+pwmWrite   KEYWORD2
+pwmRead   KEYWORD2
+pwmReadTarget   KEYWORD2
+set_ramp   KEYWORD2
+stopped   KEYWORD2
+update   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PWM_500HZ  LITERAL1
+PWM_1KHZ  LITERAL1
+PWM_31KHZ  LITERAL1
